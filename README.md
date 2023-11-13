@@ -5,4 +5,5 @@ I started learning JavaScript and after finishing each topic I will do a challen
 # list of challenges
 
 <a href="https://github.com/MaryamGolparvar/Learning-JavaScript/tree/main/challenge%201">Challenge one</a>
-<a href="https://github.com/MaryamGolparvar/Learning-JavaScript/blob/main/challenge2/challenge2.js">Challenge two</a>
+
+<a href="https://github.com/MaryamGolparvar/Learning-JavaScript/tree/main/challenge2">Challenge two</a>
